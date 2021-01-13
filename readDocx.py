@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
+# Stewart
 # It is easier to process .docx files so for any .doc file, 
 # we create a .docx for it and delete the .docx after we get the file contents.
 import os
